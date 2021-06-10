@@ -104,6 +104,7 @@ namespace PhotoView
             string[] arr = new string[255]; 
             foreach (string pyth in Directory.EnumerateFiles(URI.Text))
             {
+                //check file extension
                 if (pyth.IndexOf(pyth,-4,-1) == ".png") {}
             }
         }

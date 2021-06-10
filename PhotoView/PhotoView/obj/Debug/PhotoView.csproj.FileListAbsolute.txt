@@ -13,3 +13,10 @@ C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.GenerateReso
 C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.CoreCompileInputs.cache
 C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.exe
 C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.pdb
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.AssemblyReference.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\MainWindow.g.cs
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\App.g.cs
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView_MarkupCompile.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView_MarkupCompile.lref
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.exe
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.pdb

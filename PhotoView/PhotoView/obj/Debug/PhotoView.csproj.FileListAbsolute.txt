@@ -1,0 +1,15 @@
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\bin\Debug\PhotoView.exe.config
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\bin\Debug\PhotoView.exe
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\bin\Debug\PhotoView.pdb
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\App.g.cs
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\MainWindow.baml
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.g.resources
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.Properties.Resources.resources
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.GenerateResource.cache
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.exe
+C:\src\DOTNET\WPF C#\PhotoView\PhotoView\obj\Debug\PhotoView.pdb

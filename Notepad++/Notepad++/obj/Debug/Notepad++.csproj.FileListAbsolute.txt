@@ -1,0 +1,30 @@
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\bin\Debug\Notepad++.exe.config
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\bin\Debug\Notepad++.exe
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\bin\Debug\Notepad++.pdb
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\App.g.cs
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\MainWindow.baml
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++.g.resources
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad__.Properties.Resources.resources
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.GenerateResource.cache
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++.exe
+C:\src\DOTNET\WPF C#\Notepad++\Notepad++\obj\Debug\Notepad++.pdb
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\bin\Debug\Notepad++.exe.config
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\bin\Debug\Notepad++.exe
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\bin\Debug\Notepad++.pdb
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\App.g.cs
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\MainWindow.baml
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++.g.resources
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad__.Properties.Resources.resources
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.GenerateResource.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++.exe
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Notepad++\Notepad++\obj\Debug\Notepad++.pdb

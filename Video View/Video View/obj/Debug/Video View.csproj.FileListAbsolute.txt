@@ -1,0 +1,30 @@
+C:\src\DOTNET\WPF C#\Video View\Video View\bin\Debug\Video View.exe.config
+C:\src\DOTNET\WPF C#\Video View\Video View\bin\Debug\Video View.exe
+C:\src\DOTNET\WPF C#\Video View\Video View\bin\Debug\Video View.pdb
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\App.g.cs
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\MainWindow.baml
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View.g.resources
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video_View.Properties.Resources.resources
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View.csproj.GenerateResource.cache
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View.exe
+C:\src\DOTNET\WPF C#\Video View\Video View\obj\Debug\Video View.pdb
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\bin\Debug\Video View.exe.config
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\bin\Debug\Video View.exe
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\bin\Debug\Video View.pdb
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\App.g.cs
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\MainWindow.baml
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View.g.resources
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video_View.Properties.Resources.resources
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View.csproj.GenerateResource.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View.exe
+C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\Video View\Video View\obj\Debug\Video View.pdb

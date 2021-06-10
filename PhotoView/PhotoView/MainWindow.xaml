@@ -1,0 +1,17 @@
+﻿<Window x:Class="PhotoView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhotoView"
+        mc:Ignorable="d"
+        Title="PhotoView" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="left" Content="L" Height="20" Width="60" Margin="550 -390 0 0" Click="leftclick" />
+        <Button x:Name="right" Content="R" Height="20" Width="60" Margin="710 -390 0 0" Click="rightclick" />
+        <Button x:Name="openfilebutton" Content="Open File" Height="20" Width="60" Margin="-710 -390 0 0" Click="openfileclick" />
+        <Image Name="img" Height="370" Width="785" Margin="0 20 0 0" />
+        <TextBox x:Name="URI" HorizontalAlignment="Left" Height="20" Margin="76,4,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="489"/>
+        <Button Content="GO" HorizontalAlignment="Left" Margin="570,4,0,0" VerticalAlignment="Top" Width="48" Click="Button_Click"/>
+    </Grid>
+</Window>

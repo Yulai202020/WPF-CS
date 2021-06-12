@@ -13,3 +13,18 @@ C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\PhotoView\PhotoView\obj\Release\Pho
 C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\PhotoView\PhotoView\obj\Release\PhotoView.csproj.CoreCompileInputs.cache
 C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\PhotoView\PhotoView\obj\Release\PhotoView.exe
 C:\src\DOTNET\WPF C#\Microsoft Vusial Studio\PhotoView\PhotoView\obj\Release\PhotoView.pdb
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\bin\Release\PhotoView.exe.config
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\bin\Release\PhotoView.exe
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\bin\Release\PhotoView.pdb
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.csproj.AssemblyReference.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\MainWindow.g.cs
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\App.g.cs
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView_MarkupCompile.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView_MarkupCompile.lref
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\MainWindow.baml
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.g.resources
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.Properties.Resources.resources
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.csproj.GenerateResource.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.exe
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Release\PhotoView.pdb

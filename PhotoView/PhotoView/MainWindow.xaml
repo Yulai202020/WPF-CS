@@ -11,7 +11,7 @@
         <Button x:Name="right" Content="R" Height="20" Width="60" Margin="710 -390 0 0" Click="rightclick" />
         <Button x:Name="openfilebutton" Content="Open File" Height="20" Width="60" Margin="-710 -390 0 0" Click="openfileclick" />
         <Image Name="img" Height="370" Width="785" Margin="0 20 0 0" />
-        <TextBox x:Name="URI" HorizontalAlignment="Left" Height="20" Margin="76,4,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="489"/>
-        <Button Content="GO" HorizontalAlignment="Left" Margin="570,4,0,0" VerticalAlignment="Top" Width="48" Click="Button_Click"/>
+        <TextBox x:Name="URI" HorizontalAlignment="Left" Height="20" Margin="76,4,0,0" TextWrapping="Wrap" Text="C:\" VerticalAlignment="Top" Width="489"/>
+        <Button Content="GO" HorizontalAlignment="Left" Margin="570,4,0,0" VerticalAlignment="Top" Width="48" Click="GO"/>
     </Grid>
 </Window>

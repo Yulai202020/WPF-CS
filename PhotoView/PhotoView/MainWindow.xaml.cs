@@ -30,42 +30,55 @@ namespace PhotoView
         {
             InitializeComponent();
         }
-        private void openfolderclick(object sender, RoutedEventArgs e)
-        {
-        }
         private void leftclick(object sender, RoutedEventArgs e)
         {
-            id--;
-            string[] arr = new string[225];
-            int i = 0;
-            foreach (string pyth in Directory.EnumerateFiles(URI.Text))
+            try
             {
-                FileInfo fileinfo = new FileInfo(pyth);
-                arr[i] = pyth;
-                i++;
+                if (id != 0)
+                    id--;
+                string[] arr = new string[255];
+                int i = 0;
+                foreach (string pyth in Directory.EnumerateFiles(URI.Text))
+                {
+                    FileInfo fileinfo = new FileInfo(pyth);
+                    arr[i] = pyth;
+                    i++;
+                }
+                BitmapImage bitmap = new BitmapImage();
+                bitmap.BeginInit();
+                bitmap.UriSource = new Uri(arr[id]);
+                bitmap.EndInit();
+                img.Source = bitmap;
             }
-            BitmapImage bitmap = new BitmapImage();
-            bitmap.BeginInit();
-            bitmap.UriSource = new Uri(arr[id]);
-            bitmap.EndInit();
-            img.Source = bitmap;
+            catch
+            {
+                MessageBox.Show("It's home !!!","Error");
+            }
         }
         private void rightclick(object sender, RoutedEventArgs e)
         {
-            id++;
-            string[] arr = new string[225];
-            int i = 0;
-            foreach (string pyth in Directory.EnumerateFiles(URI.Text))
-            {
-                FileInfo fileinfo = new FileInfo(pyth);
-                arr[i] = pyth;
-                i++;
+            try
+            { 
+                if (id != 255)
+                    id++;
+                string[] arr = new string[255];
+                int i = 0;
+                foreach (string pyth in Directory.EnumerateFiles(URI.Text))
+                {
+                    FileInfo fileinfo = new FileInfo(pyth);
+                    arr[i] = pyth;
+                    i++;
+                }
+                BitmapImage bitmap = new BitmapImage();
+                bitmap.BeginInit();
+                bitmap.UriSource = new Uri(arr[id]);
+                bitmap.EndInit();
+                img.Source = bitmap;
             }
-            BitmapImage bitmap = new BitmapImage();
-            bitmap.BeginInit();
-            bitmap.UriSource = new Uri(arr[id]);
-            bitmap.EndInit();
-            img.Source = bitmap;
+            catch
+            {
+                MessageBox.Show("No more files !!!", "ERROR");
+            }
         }
         private void openfileclick(object sender, RoutedEventArgs e)
         {
@@ -90,7 +103,7 @@ namespace PhotoView
             }
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void GO(object sender, RoutedEventArgs e)
         {
             try
             {

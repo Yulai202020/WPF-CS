@@ -20,3 +20,11 @@ C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView_MarkupCompile.
 C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView_MarkupCompile.lref
 C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.exe
 C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.pdb
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\bin\Debug\PhotoView.exe.config
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\bin\Debug\PhotoView.exe
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\bin\Debug\PhotoView.pdb
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\MainWindow.baml
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.g.resources
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.Properties.Resources.resources
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.GenerateResource.cache
+C:\projects\dotnet\dotnet\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.CoreCompileInputs.cache

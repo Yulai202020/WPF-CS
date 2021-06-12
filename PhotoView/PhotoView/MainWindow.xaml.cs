@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using System.Drawing;
 using System.Threading;
 using System.IO;
+using Microsoft.Win32;
 
 namespace PhotoView
 {
@@ -23,8 +24,8 @@ namespace PhotoView
     /// </summary>
     public partial class MainWindow : Window
     {
-        public byte a = 0;
-        public string pyth = String.Empty;
+            
+        public int id = 0;
         public MainWindow()
         {
             InitializeComponent();
@@ -34,51 +35,41 @@ namespace PhotoView
         }
         private void leftclick(object sender, RoutedEventArgs e)
         {
-            a--;
-            int a1 = 21;
-            string filename11 = "";
-            DirectoryInfo dir = new DirectoryInfo(@"C:\popa\");
-
-            foreach (FileInfo files in dir.GetFiles())
+            id--;
+            string[] arr = new string[225];
+            int i = 0;
+            foreach (string pyth in Directory.EnumerateFiles(URI.Text))
             {
-                filename11 = files.Name;
-                a1--;
-                if (a == a1)
-                {
-                    break;
-                }
+                FileInfo fileinfo = new FileInfo(pyth);
+                arr[i] = pyth;
+                i++;
             }
             BitmapImage bitmap = new BitmapImage();
             bitmap.BeginInit();
-            bitmap.UriSource = new Uri(filename11);
+            bitmap.UriSource = new Uri(arr[id]);
             bitmap.EndInit();
             img.Source = bitmap;
         }
         private void rightclick(object sender, RoutedEventArgs e)
         {
-            a++;
-            int a1 = 0;
-            string filename = "";
-            DirectoryInfo dir = new DirectoryInfo(@"C:\popa\");
-
-            foreach (FileInfo files in dir.GetFiles())
+            id++;
+            string[] arr = new string[225];
+            int i = 0;
+            foreach (string pyth in Directory.EnumerateFiles(URI.Text))
             {
-                filename = files.Name;
-                a1++;
-                if (a == a1)
-                {
-                    break;
-                }
+                FileInfo fileinfo = new FileInfo(pyth);
+                arr[i] = pyth;
+                i++;
             }
             BitmapImage bitmap = new BitmapImage();
             bitmap.BeginInit();
-            bitmap.UriSource = new Uri(filename);
+            bitmap.UriSource = new Uri(arr[id]);
             bitmap.EndInit();
             img.Source = bitmap;
         }
         private void openfileclick(object sender, RoutedEventArgs e)
         {
-            Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();
+            OpenFileDialog dlg = new OpenFileDialog();
             dlg.FileName = "";
             dlg.Filter = "PNG Files (*.png)|*.png|JPG Files (*.jpg)|*.jpg|All Files (*.*)|*.*";
             Nullable<bool> result = dlg.ShowDialog();
@@ -101,11 +92,25 @@ namespace PhotoView
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string[] arr = new string[255]; 
-            foreach (string pyth in Directory.EnumerateFiles(URI.Text))
+            try
             {
-                //check file extension
-                if (pyth.IndexOf(pyth,-4,-1) == ".png") {}
+                string[] arr = new string[225];
+                int i = 0;
+                foreach (string pyth in Directory.EnumerateFiles(URI.Text))
+                {
+                    FileInfo fileinfo = new FileInfo(pyth);
+                    arr[i] = pyth;
+                    i++;
+                }
+                BitmapImage bitmap = new BitmapImage();
+                bitmap.BeginInit();
+                bitmap.UriSource = new Uri(arr[id]);
+                bitmap.EndInit();
+                img.Source = bitmap;
+            }
+            catch
+            {
+                MessageBox.Show("Incorrect pyth !!! ","ERROR");
             }
         }
     }
